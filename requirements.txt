@@ -1,0 +1,7 @@
+streamlit>=1.45
+gspread>=6.0
+google-auth>=2.0
+pandas
+altair
+matplotlib
+qrcode[pil]
